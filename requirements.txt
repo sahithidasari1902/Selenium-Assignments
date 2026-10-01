@@ -1,0 +1,7 @@
+selenium>=4.20
+pytest>=8.0
+pytest-html>=4.1
+pytest-order>=1.2
+pytest-repeat>=0.9
+pytest-xdist>=3.5
+openpyxl>=3.1

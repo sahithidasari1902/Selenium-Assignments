@@ -1,0 +1,6 @@
+reports/
+logs/
+screenshots/
+magnus_pages/
+__pycache__/
+.pytest_cache/
